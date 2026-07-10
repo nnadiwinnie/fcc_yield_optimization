@@ -95,7 +95,7 @@ Operating conditions comparison table, gasoline yield by ROT band, gasoline yiel
 **Page 3 — Optimization**
 Optimal window KPI cards, inside vs outside yield comparison, full product yield profile, ROT vs gasoline yield scatter with optimal zone highlighted, and operational recommendation.
 
-![Optimization](figures/dashboard_page3_optimisation.png)
+![Optimization](figures/dashboard_page3_optimization.png)
 
 ---
 
@@ -111,11 +111,11 @@ Optimal window KPI cards, inside vs outside yield comparison, full product yield
 
 **ROT × Catalyst-to-Oil Ratio Heatmap**
 
-![ROT CTO Heatmap](figures/optimisation_rot_cto_heatmap.png)
+![ROT CTO Heatmap](figures/optimization_rot_cto_heatmap.png)
 
 **Product Yield Profile — Inside vs Outside Optimal Window**
 
-![Yield Profile Comparison](figures/optimisation_yield_profile_comparison.png)
+![Yield Profile Comparison](figures/optimization_yield_profile_comparison.png)
 
 ---
 
